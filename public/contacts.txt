@@ -1,0 +1,3 @@
+Email: mushka.surkova@gmail.com, message: How do I make my Sinatra app reload on changes?
+How do I use session-based flash?
+Can I run Sinatra under Ruby 1.9?
